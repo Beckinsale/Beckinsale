@@ -1,8 +1,8 @@
 <p align='center'>
-   <a href="https://github-readme-stats.vercel.app/api?username=beckinsale&show_icons=true&count_private=true&theme=gruvbox&hide=stars,issues">
+   <a href="https://github.com/beckinsale">
      <img height=150 src="https://github-readme-stats.vercel.app/api?username=beckinsale&show_icons=true&count_private=true&theme=gruvbox&rank_icon=github&hide=stars,issues&show=prs_merged,prs_merged_percentage"/>
    </a>
-   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=beckinsale&layout=compact&theme=gruvbox">
+   <a href="https://github.com/beckinsale">
      <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=beckinsale&layout=compact&theme=gruvbox"/>
    </a>
 </p>
