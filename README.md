@@ -11,7 +11,7 @@
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/dmitriy-smirnov-1a3246b1">
-       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
    <a href="https://t.me/Beck_in">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
@@ -39,7 +39,7 @@
 - **Infrastructure**: Redis, PostgreSQL, Postman, Git
 
 ### **Testing & QA**
-[![My Skills](https://skillicons.dev/icons?i=jest,playwright)](https://github.com/beckinsale)
+[<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />](https://github.com/beckinsale)
 
 - **Unit Testing**: Jest
 - **E2E Testing**: Playwright
