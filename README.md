@@ -45,9 +45,9 @@
 - **E2E Testing**: Playwright
 
 ### **AI & LLM Stack**
-[<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Claude-613332?style=for-the-badge&logo=anthropic&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Qwen-5151E5?style=for-the-badge&logo=alibabacloud&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/RAG-Architecture-orange?style=for-the-badge" />](https://github.com/beckinsale)
+[<img src="https://img.shields.io/badge/Claude-613332?style=for-the-badge&logo=anthropic&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Qwen-5151E5?style=for-the-badge&logo=alibabacloud&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/RAG-Architecture-orange?style=for-the-badge" />](https://github.com/beckinsale)
 
-- **Tools**: OpenAI Codex, Claude, Gemini, Qwen
+- **Tools**: Claude, OpenAI Codex, Gemini, Qwen
 - **Expertise**: **RAG (Retrieval-Augmented Generation)**
 
 <br/>
