@@ -25,27 +25,27 @@
 ## 🛠 Technical Stack
 
 ### **Frontend & Building**
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,html,css,sass,vite,webpack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,html,css,sass,vite,webpack)](https://github.com/beckinsale)
 
 - **Frameworks**: React, Next.js, Redux (Toolkit)
 - **Bundlers**: Vite, Webpack
 - **Architecture**: **FSD (Feature-Sliced Design)**, **Monorepo**
 
 ### **Backend & Databases**
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,sequelize,redis,postgres,postman,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,prisma,sequelize,redis,postgres,postman,git,github)](https://github.com/beckinsale)
 
 - **Core**: NestJS, Node.js
 - **Query/ORM**: Prisma, Sequelize
 - **Infrastructure**: Redis, PostgreSQL, Postman, Git
 
 ### **Testing & QA**
-[![My Skills](https://skillicons.dev/icons?i=jest,playwright)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=jest,playwright)](https://github.com/beckinsale)
 
 - **Unit Testing**: Jest
 - **E2E Testing**: Playwright
 
 ### **AI & LLM Stack**
-![Claude](https://img.shields.io/badge/Claude-613332?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white) ![Qwen](https://img.shields.io/badge/Qwen-5151E5?style=for-the-badge&logo=alibabacloud&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-Architecture-orange?style=for-the-badge)
+[<img src="https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Claude-613332?style=for-the-badge&logo=anthropic&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/Qwen-5151E5?style=for-the-badge&logo=alibabacloud&logoColor=white" />](https://github.com/beckinsale) [<img src="https://img.shields.io/badge/RAG-Architecture-orange?style=for-the-badge" />](https://github.com/beckinsale)
 
 - **Tools**: OpenAI Codex, Claude, Gemini, Qwen
 - **Expertise**: **RAG (Retrieval-Augmented Generation)**
