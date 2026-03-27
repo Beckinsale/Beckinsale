@@ -24,7 +24,7 @@ jobs:
       - name: Generate languages card
         uses: readme-tools/github-readme-stats-action@v1
         with:
-          card: languages
+          card: top-langs
           options: username=beckinsale&layout=compact&theme=gruvbox
           path: profile/langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
