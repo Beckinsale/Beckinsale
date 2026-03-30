@@ -26,9 +26,10 @@
 
 ### **Frontend & Building**
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,html,css,sass,vite,webpack)](https://github.com/beckinsale)
-<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" width="48" height="48" alt="zustand" />
+<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" height="48" alt="Zustand" title="Zustand" />
+<img src="https://cdn.simpleicons.org/reactquery/FF4154" height="48" alt="TanStack Query" title="TanStack Query" />
 
-- **Libraries/Frameworks**: TS, React, Next.js, RTK/Zustand
+- **Libraries/Frameworks**: TS, React, Next.js, RTK/Zustand, TanStack Query
 - **Bundlers**: Vite, Webpack
 - **Architecture**: **FSD (Feature-Sliced Design)**, **Monorepo**
 
