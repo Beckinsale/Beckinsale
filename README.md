@@ -26,8 +26,9 @@
 
 ### **Frontend & Building**
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,html,css,sass,vite,webpack)](https://github.com/beckinsale)
+<img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" width="48" height="48" alt="zustand" />
 
-- **Frameworks**: React, Next.js, Redux (Toolkit)
+- **Libraries/Frameworks**: TS, React, Next.js, RTK/Zustand
 - **Bundlers**: Vite, Webpack
 - **Architecture**: **FSD (Feature-Sliced Design)**, **Monorepo**
 
