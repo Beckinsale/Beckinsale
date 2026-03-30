@@ -1,21 +1,8 @@
-<p align='center'>
-   <a href="https://github.com/beckinsale">
-     <img height=150 src="./profile/stats.svg"/>
-   </a>
-   <a href="https://github.com/beckinsale">
-     <img height=150 src="./profile/langs.svg"/>
-   </a>
-</p>
+<p align='center'><a href="https://github.com/beckinsale"><img height=150 src="./profile/stats.svg"/></a>&nbsp;<a href="https://github.com/beckinsale"><img height=150 src="./profile/langs.svg"/></a></p>
 
 <br/>
 
-<p align='center'>
-   <a href="https://www.linkedin.com/in/dmitriy-smirnov-1a3246b1">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   </a>
-   <a href="https://t.me/Beck_in">
-       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-   </a>
+<p align='center'><a href="https://www.linkedin.com/in/dmitriy-smirnov-1a3246b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/Beck_in"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <p align='center'>
    📫 How to reach me: <a href='mailto:beck.in.sale21061986@gmail.com'>beck.in.sale21061986@gmail.com</a>
 </p>
