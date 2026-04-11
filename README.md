@@ -4,7 +4,13 @@
 
 <p align='center'><a href="https://www.linkedin.com/in/dmitriy-smirnov-1a3246b1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;<a href="https://t.me/Beck_in"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:beck.in.sale21061986@gmail.com'>beck.in.sale21061986@gmail.com</a>
+   📫 How to reach me:
+</p>
+<p align='center'>
+   Telegram: <a href='t.me/Beck_in'>t.me/Beck_in</a>
+</p>
+<p align='center'>
+   E-mail: <a href='mailto:beck.in.sale21061986@gmail.com'>beck.in.sale21061986@gmail.com</a>
 </p>
 
 <br/>
